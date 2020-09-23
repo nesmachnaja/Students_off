@@ -1,0 +1,10 @@
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormStud.resources
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Людмила Несмачная\Source\Workspaces\Рабочая область\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\IV\4 КУРС\лабы для ИЕ\dbStudents_lab5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\IV\4 КУРС\лабы для ИЕ\dbStudents_lab5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
